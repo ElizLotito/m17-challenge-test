@@ -1,4 +1,4 @@
-h2 {
+h2 h1 {
     font-family: 'Kaisei HarunoUmi', serif;
     size: 20px;}
 .h1 {font-family: 'Roboto', sans-serif;
@@ -19,3 +19,29 @@ h2 {
     size: 12px;}
 p {font-family: 'Kaisei HarunoUmi', serif;
     size: 14px;}
+
+img {width: 326.4px;
+    height: 244.8px;
+}
+
+a {border: 1px solid black;
+    color: #FEFEDF;
+    background-color: #00C9A7;
+    font-family: 'Montserrat', sans-serif;
+    size: 12px;}
+
+a:hover {color: #FEFEDF;
+        background-color: #845EC2;}
+a:active {color: #FEFEDF;
+    background-color: #C493FF}
+
+div {border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;}
+
+.darkPurple {background:#845EC2;}
+.purple {background: #C493FF;}
+.yellow {background: #FEFEDF;}
+.green {background: #00C9A7;}
+
