@@ -1,0 +1,21 @@
+h2 {
+    font-family: 'Kaisei HarunoUmi', serif;
+    size: 20px;}
+.h1 {font-family: 'Roboto', sans-serif;
+    size: 18px;
+    color: #FEFEDF;
+    background-color: #00C9A7;}
+.h2 {font-family: 'IBM Plex Sans Arabic', sans-serif;
+    size: 16px;
+    color: #FEFEDF;
+    background-color: #C493FF;}
+.h3 {font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    size: 14px;
+    background-color: #C493FF;
+    color: #FEFEDF;
+    color: }
+.p {font-family: 'Montserrat', sans-serif;
+    size: 12px;}
+p {font-family: 'Kaisei HarunoUmi', serif;
+    size: 14px;}
